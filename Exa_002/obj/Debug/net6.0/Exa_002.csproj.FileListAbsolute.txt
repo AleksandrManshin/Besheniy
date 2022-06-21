@@ -1,0 +1,15 @@
+C:\Users\maiva\OneDrive\Рабочий стол\Repo\Examples\Exa_002\bin\Debug\net6.0\Exa_002.exe
+C:\Users\maiva\OneDrive\Рабочий стол\Repo\Examples\Exa_002\bin\Debug\net6.0\Exa_002.deps.json
+C:\Users\maiva\OneDrive\Рабочий стол\Repo\Examples\Exa_002\bin\Debug\net6.0\Exa_002.runtimeconfig.json
+C:\Users\maiva\OneDrive\Рабочий стол\Repo\Examples\Exa_002\bin\Debug\net6.0\Exa_002.dll
+C:\Users\maiva\OneDrive\Рабочий стол\Repo\Examples\Exa_002\bin\Debug\net6.0\Exa_002.pdb
+C:\Users\maiva\OneDrive\Рабочий стол\Repo\Examples\Exa_002\obj\Debug\net6.0\Exa_002.csproj.AssemblyReference.cache
+C:\Users\maiva\OneDrive\Рабочий стол\Repo\Examples\Exa_002\obj\Debug\net6.0\Exa_002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiva\OneDrive\Рабочий стол\Repo\Examples\Exa_002\obj\Debug\net6.0\Exa_002.AssemblyInfoInputs.cache
+C:\Users\maiva\OneDrive\Рабочий стол\Repo\Examples\Exa_002\obj\Debug\net6.0\Exa_002.AssemblyInfo.cs
+C:\Users\maiva\OneDrive\Рабочий стол\Repo\Examples\Exa_002\obj\Debug\net6.0\Exa_002.csproj.CoreCompileInputs.cache
+C:\Users\maiva\OneDrive\Рабочий стол\Repo\Examples\Exa_002\obj\Debug\net6.0\Exa_002.dll
+C:\Users\maiva\OneDrive\Рабочий стол\Repo\Examples\Exa_002\obj\Debug\net6.0\refint\Exa_002.dll
+C:\Users\maiva\OneDrive\Рабочий стол\Repo\Examples\Exa_002\obj\Debug\net6.0\Exa_002.pdb
+C:\Users\maiva\OneDrive\Рабочий стол\Repo\Examples\Exa_002\obj\Debug\net6.0\Exa_002.genruntimeconfig.cache
+C:\Users\maiva\OneDrive\Рабочий стол\Repo\Examples\Exa_002\obj\Debug\net6.0\ref\Exa_002.dll
